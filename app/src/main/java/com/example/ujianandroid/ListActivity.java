@@ -30,4 +30,5 @@ public class ListActivity extends AppCompatActivity {
         lvNama.setAdapter(ad_nama);
 
     }
+
 }
